@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on developing a web scraper 
+- 🌱 I’m currently learning Python and Machine Learning
+- 📫 How to reach me: psjoel02@gmail.com
+
 <!--
 **psjoel02/psjoel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

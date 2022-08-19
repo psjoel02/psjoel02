@@ -3,7 +3,9 @@
 
 - 🔭 I’m currently working on developing a web scraper 
 - 🌱 I’m currently learning Python and Machine Learning
-
+- 🤔 I've learned Java and C through my programming classes
+- ⚙️ Languages: Java, Kotlin, C, C#, Python
+- 🧰 Tech: Git, Pip, NuGet, API + JSON
 <!-- Contact info -->
  
 <br><b>📫 How to contact me: </b><br>
@@ -20,6 +22,13 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+
+---
+
+<!-- Github stats -->
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=psjoel02&show_icons=true&locale=en&count_private=true&layout=full&hide_border=true&bg_color=0D1117&theme=midnight-blue" alt=">Joel's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjoel02&langs_count=8&count_private=true&layout=full&hide_border=true&bg_color=0D1117&theme=midnight-blue" />|
+| ------------- | ------------- |
 
 ---
 <!-- About me in Java -->
@@ -50,10 +59,7 @@ public class Joel{
 }
 
 ```
-<!-- Github stats -->
----
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=psjoel02&show_icons=true&locale=en&count_private=true&layout=full&hide_border=true&bg_color=0D1117&theme=midnight-blue" alt=">Joel's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjoel02&langs_count=8&count_private=true&layout=full&hide_border=true&bg_color=0D1117&theme=midnight-blue" />|
-| ------------- | ------------- |
+
 <!--**psjoel02/psjoel02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

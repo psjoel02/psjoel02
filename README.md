@@ -42,7 +42,7 @@ public class Joel{
     System.out.println("Hello World!");
   }
   
-  public static void main(String args[]){
+  public static void main(String [] args){
     Joel P = new Joel("Joel", "University of Texas at Arlington", "Bachelor's in Computer Science");
     P.sayHello();
   }

@@ -26,16 +26,17 @@
 ```Java
 public class Joel{
   
-  public String Name, University, Major;
+  public String Name, University, Major, Scholarship;
   
   public Joel(){
     System.out.println("Constructor invoked and objects initialized.");
   }
   
-  public Joel(String name, String university, String major){
+  public Joel(String name, String university, String major, String scholarship){
     this.Name = name;
     this.University = university;
     this.Major = major;
+    this.Scholarship = scholarship;
   }
   
   private static void sayHello(){
@@ -43,7 +44,7 @@ public class Joel{
   }
   
   public static void main(String [] args){
-    Joel P = new Joel("Joel", "University of Texas at Arlington", "Bachelor's in Computer Science");
+    Joel P = new Joel("Joel", "University of Texas at Arlington", "Bachelor's in Computer Science", "Presidential Scholar");
     P.sayHello();
   }
 }

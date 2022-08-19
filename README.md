@@ -3,8 +3,8 @@
 
 - 🔭 I’m currently working on developing a web scraper 
 - 🌱 I’m currently learning Python and Machine Learning
-- ⚙️ <b>Languages<b>: Java, Kotlin, C, C#, Python
-- 🧰 <b>Tech<b>: Git, Pip, NuGet, API + JSON
+- ⚙️ <b>Languages</b>: Java, Kotlin, C, C#, Python
+- 🧰 <b>Tech</b>: Git, Pip, NuGet, API + JSON
 <!-- Contact info -->
  
 <br><b>📫 How to contact me: </b><br>

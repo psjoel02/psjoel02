@@ -26,7 +26,7 @@
 
 <!-- Github stats -->
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=psjoel02&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-blue" alt=">Joel's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjoel02&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=midnight-blue" />|
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=psjoel02&show_icons=true&locale=en&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" alt=">Joel's github stats" />|<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=psjoel02&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=0D1117&theme=algolia" />|
 | ------------- | ------------- |
 
 ---

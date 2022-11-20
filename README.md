@@ -1,11 +1,13 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on developing a web scraper 
+- 🔭 I’m currently working on improving my current projects and preparing for interviews.
 - 🌱 I’m currently learning Python and Machine Learning
 - ⚙️ <b>Languages</b>: Java, Kotlin, C, C#, Python
 - 🧰 <b>Tech</b>: Git, Pip, NuGet, API + JSON
 <!-- Contact info -->
+
+![My Wall](https://idemoed.vercel.app/api/wall?username=psjoel02)
  
 <br><b>📫 How to contact me: </b><br>
 

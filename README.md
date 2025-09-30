@@ -12,7 +12,7 @@
 <br><b>📫 How to contact me: </b><br>
 
 <a href="mailto:joel.pimenta@mavs.uta.edu"><img src="https://img.shields.io/badge/-EmailMe-red" alt="email"></a>
-<a href="https://www.linkedin.com/in/joel-pimenta-22872a208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<!--<a href="https://www.linkedin.com/in/joel-pimenta-22872a208/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>-->
 [![Discord](https://badgen.net/badge/icon/discord?icon=discord&label)](https://https://discord.com/)
 
 <!-- Tech used -->
